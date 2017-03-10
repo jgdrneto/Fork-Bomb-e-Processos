@@ -1,4 +1,4 @@
-# **README DO PROJETO Fork Bomb e processos**
+# **README DO PROJETO FORK BOMB E PROCESSOS**
 
 
 ## **Alunos:**
@@ -12,7 +12,7 @@
 
 ## **Descrição:**
 
-Atividade que consistem em realizar duas tarefas:
+Atividade que consistem em realizar essas tarefas:
 	
 * Criar um programa que evite o Fork Bomb
 * Imprimir todos os processo descendente de um processo informado
@@ -22,5 +22,5 @@ Atividade que consistem em realizar duas tarefas:
 
 ## **Execução:**
 
-* Para compilar, use o comando: *g++ -Wall -str=c++11 programa.cpp -o programa*
+* Para compilar, use o comando: *g++ -Wall -std=c++11 programa.cpp -o programa*
 * Para Executar, use: *./programa*	
